@@ -1,0 +1,11 @@
+Package: weatherdata
+Type: Package
+Title: R interface to wunderground API
+Version: 1.0
+Date: 2012-03-03
+Author: NagaChaitanya Vellaki
+Maintainer: NagaChaitanya Vellanki<me@chaitanyavellanki.com>
+Description: Contains methods to pull PWS by location(latitude,longitude),(State, City) and (Country, City). Also can pull historical data for PWS.Methods for visualizing historical PWS data, basic computations
+License: GPL-2
+LazyLoad: yes
+Depends: XML, ggplot2, methods

@@ -1,0 +1,3 @@
+importFrom(XML, xmlTreeParse, xmlName, xmlValue)
+importFrom(ggplot2, ggplot, aes_string, aes, opts, theme_text, xlab, ylab, geom_boxplot, geom_point)
+exportPattern("^[[:alpha:]]+")
